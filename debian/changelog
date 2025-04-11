@@ -1,0 +1,38 @@
+ros-jazzy-trac-ik-kinematics-plugin (2.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- TRACLabs Robotics <robotics@traclabs.com>  Thu, 11 Apr 2024 16:00:00 -0000
+
+ros-jazzy-trac-ik-kinematics-plugin (2.0.0-1trixie) trixie; urgency=high
+
+  * hide parameters header file, as it is implemetation
+  * remove boost from trac_ik_lib and trac_ik_kinematics_plugin
+  * Set default solve type to Distance
+  * Contributors: Ana C. Huaman Quispe, Kenji Brameld
+
+ -- TRACLabs Robotics <robotics@traclabs.com>  Thu, 28 Mar 2024 16:00:00 -0000
+
+ros-jazzy-trac-ik-kinematics-plugin (1.6.6-1trixie) trixie; urgency=high
+
+  * removed bad depends
+  * propagated nlopt deps to sat packages
+  * Contributors: Stephen Hart
+
+ -- TRACLabs Robotics <robotics@traclabs.com>  Tue, 04 May 2021 16:00:00 -0000
+
+ros-jazzy-trac-ik-kinematics-plugin (1.6.4-1trixie) trixie; urgency=high
+
+
+
+ -- TRACLabs Robotics <robotics@traclabs.com>  Wed, 28 Apr 2021 16:00:00 -0000
+
+ros-jazzy-trac-ik-kinematics-plugin (1.6.2-1trixie) trixie; urgency=high
+
+  * changed package.xmls to format 3
+  * switched to non-deprecated function for neotic
+  * Contributors: Stephen Hart
+
+ -- TRACLabs Robotics <robotics@traclabs.com>  Tue, 16 Mar 2021 16:00:00 -0000
+
+
